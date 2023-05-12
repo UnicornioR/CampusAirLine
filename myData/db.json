@@ -1,0 +1,31 @@
+{
+  "flota": [],
+  "contactos": [],
+  "ventas": [],
+  "detalleventas":[],
+  "personal": [],
+  "customer": [
+    {
+      "cc": "6666",
+      "nombres": "Maria Antonieta",
+      "apellidos": "de las Nieves",
+      "telefono": "6666",
+      "email": "jjp@fff.com",
+      "paisorg": "Colombia",
+      "fechanac": "2023-05-05",
+      "ciudadorg": "",
+      "id": 1
+    },
+    {
+      "cc": "8888",
+      "nombres": "Azul",
+      "apellidos": "Valencia",
+      "telefono": "5544545",
+      "email": "azulv@gmail.com",
+      "paisorg": "USA",
+      "fechanac": "2023-05-18",
+      "ciudadorg": "Chicago",
+      "id": 2
+    }
+  ]
+}
